@@ -1,0 +1,11 @@
+{
+  "Culture": "de-DE",
+  "Texts": {
+    "AppName": "NewProjectTemplate",
+    "Menu:Home": "Home",
+    "Menu:NewProjectTemplate": "NewProjectTemplate",
+    "Permission:NewProjectTemplate": "NewProjectTemplate",
+    "Welcome": "Willkommen",
+    "LongWelcomeMessage": "Willkommen in der Anwendung. Dies ist ein Startup-Projekt basierend auf dem ABP-Framework. Weitere Informationen finden Sie unter"
+  }
+}

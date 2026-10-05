@@ -1,0 +1,11 @@
+{
+  "Culture": "hi",
+  "Texts": {
+    "AppName": "NewProjectTemplate",
+    "Menu:Home": "घर",
+    "Menu:NewProjectTemplate": "NewProjectTemplate",
+    "Permission:NewProjectTemplate": "NewProjectTemplate",
+    "Welcome": "स्वागत हे",
+    "LongWelcomeMessage": "आवेदन करने के लिए आपका स्वागत है। यह एबीपी ढांचे पर आधारित एक स्टार्टअप परियोजना है। अधिक जानकारी के लिए पर जाएँ।"
+  }
+}

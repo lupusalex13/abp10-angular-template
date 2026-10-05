@@ -1,0 +1,11 @@
+{
+  "Culture": "zh-Hans",
+  "Texts": {
+    "AppName": "NewProjectTemplate",
+    "Menu:Home": "首页",
+    "Menu:NewProjectTemplate": "NewProjectTemplate",
+    "Permission:NewProjectTemplate": "NewProjectTemplate",
+    "Welcome": "欢迎",
+    "LongWelcomeMessage": "欢迎使用本应用程序。这是一个基于 ABP 框架的启动项目。欲了解更多信息，请访问"
+  }
+}

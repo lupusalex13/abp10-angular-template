@@ -1,0 +1,11 @@
+{
+  "Culture": "sv",
+  "Texts": {
+    "AppName": "NewProjectTemplate",
+    "Menu:Home": "Hem",
+    "Menu:NewProjectTemplate": "NewProjectTemplate",
+    "Permission:NewProjectTemplate": "NewProjectTemplate",
+    "Welcome": "Välkomna",
+    "LongWelcomeMessage": "Välkommen till ansökan. "
+  }
+}

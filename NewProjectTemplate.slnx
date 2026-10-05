@@ -1,0 +1,23 @@
+<Solution>
+    <Configurations>
+        <Platform Name="Any CPU" />
+    </Configurations>
+    <Folder Name="/src/">
+        <Project Path="src/NewProjectTemplate.Domain/NewProjectTemplate.Domain.csproj" />
+        <Project Path="src/NewProjectTemplate.Application/NewProjectTemplate.Application.csproj" />
+        <Project Path="src/NewProjectTemplate.EntityFrameworkCore/NewProjectTemplate.EntityFrameworkCore.csproj" />
+        <Project Path="src/NewProjectTemplate.Domain.Shared/NewProjectTemplate.Domain.Shared.csproj" />
+        <Project Path="src/NewProjectTemplate.Application.Contracts/NewProjectTemplate.Application.Contracts.csproj" />
+        <Project Path="src/NewProjectTemplate.HttpApi/NewProjectTemplate.HttpApi.csproj" />
+        <Project Path="src/NewProjectTemplate.HttpApi.Client/NewProjectTemplate.HttpApi.Client.csproj" />
+        <Project Path="src/NewProjectTemplate.HttpApi.Host/NewProjectTemplate.HttpApi.Host.csproj" />
+        <Project Path="src/NewProjectTemplate.DbMigrator/NewProjectTemplate.DbMigrator.csproj" />
+    </Folder>
+    <Folder Name="/test/">
+        <Project Path="test/NewProjectTemplate.Application.Tests/NewProjectTemplate.Application.Tests.csproj" />
+        <Project Path="test/NewProjectTemplate.EntityFrameworkCore.Tests/NewProjectTemplate.EntityFrameworkCore.Tests.csproj" />
+        <Project Path="test/NewProjectTemplate.TestBase/NewProjectTemplate.TestBase.csproj" />
+        <Project Path="test/NewProjectTemplate.Domain.Tests/NewProjectTemplate.Domain.Tests.csproj" />
+        <Project Path="test/NewProjectTemplate.HttpApi.Client.ConsoleTestApp/NewProjectTemplate.HttpApi.Client.ConsoleTestApp.csproj" />
+    </Folder>
+</Solution>

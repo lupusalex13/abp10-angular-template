@@ -1,0 +1,11 @@
+{
+  "Culture": "fi",
+  "Texts": {
+    "AppName": "NewProjectTemplate",
+    "Menu:Home": "Koti",
+    "Menu:NewProjectTemplate": "NewProjectTemplate",
+    "Permission:NewProjectTemplate": "NewProjectTemplate",
+    "Welcome": "Tervetuloa",
+    "LongWelcomeMessage": "Tervetuloa sovellukseen. Tämä on ABP-kehykseen perustuva käynnistysprojekti. Lisätietoja on osoitteessa"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Culture": "ar",
+  "Texts": {
+    "AppName": "NewProjectTemplate",
+    "Menu:Home": "منزل، بيت",
+    "Menu:NewProjectTemplate": "NewProjectTemplate",
+    "Permission:NewProjectTemplate": "NewProjectTemplate",
+    "Welcome": "مرحبا",
+    "LongWelcomeMessage": "مرحبا بكم في التطبيق. هذا مشروع بدء التشغيل يعتمد على إطار عمل برنامج ABP. لمزيد من المعلومات قم بزيارة"
+  }
+}

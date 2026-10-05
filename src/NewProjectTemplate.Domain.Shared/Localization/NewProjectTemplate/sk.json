@@ -1,0 +1,11 @@
+{
+  "Culture": "sk",
+  "Texts": {
+    "AppName": "NewProjectTemplate",
+    "Menu:Home": "Domov",
+    "Menu:NewProjectTemplate": "NewProjectTemplate",
+    "Permission:NewProjectTemplate": "NewProjectTemplate",
+    "Welcome": "Vitajte",
+    "LongWelcomeMessage": "Vitajte v aplikácii. Toto je štartovací projekt založený na ABP frameworku. Viac informácií nájdete na stránke"
+  }
+}

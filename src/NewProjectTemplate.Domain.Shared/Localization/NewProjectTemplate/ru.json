@@ -1,0 +1,11 @@
+{
+  "Culture": "ru",
+  "Texts": {
+    "AppName": "NewProjectTemplate",
+    "Menu:Home": "Дома",
+    "Menu:NewProjectTemplate": "NewProjectTemplate",
+    "Permission:NewProjectTemplate": "NewProjectTemplate",
+    "Welcome": "Добро пожаловать",
+    "LongWelcomeMessage": "Добро пожаловать в приложение. Это стартап-проект, основанный на структуре ABP. Для получения дополнительной информации посетите сайт"
+  }
+}

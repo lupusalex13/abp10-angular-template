@@ -1,0 +1,11 @@
+{
+  "Culture": "tr",
+  "Texts": {
+    "AppName": "NewProjectTemplate",
+    "Menu:Home": "Ana sayfa",
+    "Menu:NewProjectTemplate": "NewProjectTemplate",
+    "Permission:NewProjectTemplate": "NewProjectTemplate",
+    "Welcome": "Hoşgeldiniz",
+    "LongWelcomeMessage": "Uygulamaya hoşgeldiniz. Bu, ABP framework'ü üzerine bina edilmiş bir başlangıç projesidir. Daha fazla bilgi için ziyaret edebilirsiniz"
+  }
+}

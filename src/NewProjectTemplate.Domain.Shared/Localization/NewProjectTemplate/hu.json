@@ -1,0 +1,11 @@
+{
+  "Culture": "hu",
+  "Texts": {
+    "AppName": "NewProjectTemplate",
+    "Menu:Home": "Kezdőlap",
+    "Menu:NewProjectTemplate": "NewProjectTemplate",
+    "Permission:NewProjectTemplate": "NewProjectTemplate",
+    "Welcome": "Üdvözöljük",
+    "LongWelcomeMessage": "Üdvözöljük az alkalmazásban. Ez egy ABP keretrendszeren alapuló startup projekt. További információért látogasson el az oldalra"
+  }
+}

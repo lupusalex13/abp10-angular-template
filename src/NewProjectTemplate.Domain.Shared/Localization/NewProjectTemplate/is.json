@@ -1,0 +1,19 @@
+{
+  "Culture": "is",
+  "Texts": {
+    "AppName": "NewProjectTemplate",
+    "Menu:Home": "Home",
+    "Menu:NewProjectTemplate": "NewProjectTemplate",
+    "Permission:NewProjectTemplate": "NewProjectTemplate",
+    "Welcome": "Welcome",
+    "LongWelcomeMessage": "Welcome to the application. This is a startup project based on the ABP framework. For more information visit",
+    "Actions": "Actions",
+    "Name": "Name",
+    "CreationTime": "Creation time",
+    "Edit": "Edit",
+    "Delete": "Delete",
+    "Close": "Close",
+    "AreYouSure": "Are you sure?",
+    "AreYouSureToDelete": "Are you sure you want to delete this item?"
+  }
+}
